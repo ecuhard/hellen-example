@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\OZER\Documents\GitHub\hellen-example\stabiljr.kicad_sch</source>
-    <date>2025-04-19T22:31:15+0300</date>
+    <date>2025-04-19T22:39:24+0300</date>
     <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -393,7 +393,7 @@
       <tstamps>57299c94-4ee6-4872-907b-7d1c0bb03c0b</tstamps>
     </comp>
     <comp ref="R43">
-      <value>10K</value>
+      <value>10k</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
         <field name="LCSC">C17414</field>
