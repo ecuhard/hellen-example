@@ -8391,7 +8391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4a3a80c0-5ff2-431a-af30-5d326e11bdc6")
-		(property "Reference" "İŞLEMC1"
+		(property "Reference" "CPU1"
 			(at 214.376 89.916 0)
 			(effects
 				(font
@@ -8793,7 +8793,7 @@
 		(instances
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
-					(reference "İŞLEMC1")
+					(reference "CPU1")
 					(unit 1)
 				)
 			)
@@ -11537,7 +11537,7 @@
 			(uuid "3bfd8b1a-2b26-495b-bd2d-2ff41c66a16d")
 		)
 		(instances
-			(project "stabildaytona"
+			(project "stabiljr"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "10")
 				)
@@ -11615,7 +11615,7 @@
 			(uuid "9e0d5848-a8aa-4b6a-b7ba-76a1ecc497fb")
 		)
 		(instances
-			(project "stabildaytona"
+			(project "stabiljr"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "3")
 				)
@@ -11663,7 +11663,7 @@
 			(uuid "afa108eb-aed6-4f01-9acf-b5d6b2952776")
 		)
 		(instances
-			(project "stabildaytona"
+			(project "stabiljr"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "8")
 				)
@@ -11781,7 +11781,7 @@
 			(uuid "6e1ec0ea-69b4-41fd-8960-1ee68b424c15")
 		)
 		(instances
-			(project "stabildaytona"
+			(project "stabiljr"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "9")
 				)
@@ -11859,7 +11859,7 @@
 			(uuid "93336658-9153-4501-bd26-d414f3f93e5d")
 		)
 		(instances
-			(project "stabildaytona"
+			(project "stabiljr"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "6")
 				)
@@ -11937,7 +11937,7 @@
 			(uuid "ac0c4a55-db01-4655-97c7-99ea6e552b76")
 		)
 		(instances
-			(project "stabildaytona"
+			(project "stabiljr"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "2")
 				)
