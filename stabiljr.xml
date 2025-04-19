@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\OZER\Documents\GitHub\hellen-example\stabiljr.kicad_sch</source>
-    <date>2025-04-19T22:18:11+0300</date>
+    <date>2025-04-19T22:31:15+0300</date>
     <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -364,13 +364,13 @@
       <value>2.7K</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
-        <field name="LCSC">C17414</field>
+        <field name="LCSC">ERA6AEB272V</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C17414"/>
+      <property name="LCSC" value="ERA6AEB272V"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="stabiljr.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -380,13 +380,13 @@
       <value>2.7K</value>
       <footprint>hellen-one-common:R0805</footprint>
       <fields>
-        <field name="LCSC">C17414</field>
+        <field name="LCSC">ERA6AEB272V</field>
         <field name="Footprint">hellen-one-common:R0805</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
-      <property name="LCSC" value="C17414"/>
+      <property name="LCSC" value="ERA6AEB272V"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="stabiljr.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>

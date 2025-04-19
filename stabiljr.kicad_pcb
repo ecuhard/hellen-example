@@ -3880,7 +3880,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17414"
+		(property "LCSC" "ERA6AEB272V"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4147,7 +4147,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17414"
+		(property "LCSC" "ERA6AEB272V"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
