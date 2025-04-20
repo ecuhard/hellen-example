@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\OZER\Documents\GitHub\hellen-example\stabiljr.kicad_sch</source>
-    <date>2025-04-19T22:52:28+0300</date>
+    <source>C:\Users\OZER\Documents\GitHub\stabiljr\stabiljr.kicad_sch</source>
+    <date>2025-04-20T21:30:38+0300</date>
     <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1216,19 +1216,19 @@
       <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
     <library logical="chips">
-      <uri>C:\Users\OZER\Documents\GitHub\hellen-example/../kicad6-libraries/chips.kicad_sym</uri>
+      <uri>C:\Users\OZER\Documents\GitHub\stabiljr/../kicad6-libraries/chips.kicad_sym</uri>
     </library>
     <library logical="hellen-one-common">
-      <uri>C:\Users\OZER\Documents\GitHub\hellen-example/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+      <uri>C:\Users\OZER\Documents\GitHub\stabiljr/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
     </library>
     <library logical="hellen-one-mega-mcu100-0.3">
-      <uri>C:\Users\OZER\Documents\GitHub\hellen-example/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym</uri>
+      <uri>C:\Users\OZER\Documents\GitHub\stabiljr/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym</uri>
     </library>
     <library logical="hellen-one-power_12and5V">
-      <uri>C:\Users\OZER\Documents\GitHub\hellen-example/hellen-one/modules/power_12and5V/0.2/power_12and5V.kicad_sym</uri>
+      <uri>C:\Users\OZER\Documents\GitHub\stabiljr/hellen-one/modules/power_12and5V/0.2/power_12and5V.kicad_sym</uri>
     </library>
     <library logical="vr-max9924">
-      <uri>C:\Users\OZER\Documents\GitHub\hellen-example/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
+      <uri>C:\Users\OZER\Documents\GitHub\stabiljr/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
