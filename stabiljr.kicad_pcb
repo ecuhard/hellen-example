@@ -850,7 +850,7 @@
 			(pintype "passive+no_connect")
 			(uuid "3cd43554-6770-4642-a9b0-36a311c286d2")
 		)
-		(model ":hellen-one-models:MPXH6400A.STEP"
+		(model "${KIPRJMOD}/kicad6-libraries/MPXH6400A.STEP"
 			(offset
 				(xyz -6 7.7 6.3)
 			)
@@ -2826,6 +2826,17 @@
 				(pts
 					(xy 147.075 129.475) (xy 147.075 144.375) (xy 137.675 144.375) (xy 137.675 129.475)
 				)
+			)
+		)
+		(model "${KIPRJMOD}/hellen-one/modules/vr-max9924/0.3/vr-max9924-vrml.wrl"
+			(offset
+				(xyz 0 0 -0.8)
+			)
+			(scale
+				(xyz 0.4 0.4 0.15)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -5146,7 +5157,7 @@
 			(effects
 				(font
 					(size 0.6 0.6)
-					(thickness 0.254)
+					(thickness 0.15)
 				)
 				(justify left bottom)
 			)
@@ -5160,7 +5171,7 @@
 			(effects
 				(font
 					(size 0.6 0.6)
-					(thickness 0.254)
+					(thickness 0.15)
 				)
 				(justify left bottom)
 			)
@@ -6054,6 +6065,17 @@
 				(pts
 					(xy 83.525002 143.175001) (xy 66.724999 143.175001) (xy 66.724999 122.585001) (xy 83.525002 122.585001)
 				)
+			)
+		)
+		(model "${KIPRJMOD}/hellen-one/modules/power_12and5V/0.3/power_12and5V-vrml.wrl"
+			(offset
+				(xyz 0 0 -0.15)
+			)
+			(scale
+				(xyz 0.4 0.4 0.33)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -8836,15 +8858,15 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/EASYEDA_MODELS/CONN-TH_HCCPHPE24BKA90F.step"
+		(model "C:/Users/OZER/Desktop/3d/HCCPHPE24BKA90F v10.step"
 			(offset
-				(xyz 33.0999 0.8 -4)
+				(xyz -33 -19 10.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 0)
+				(xyz 90 180 -180)
 			)
 		)
 	)
@@ -10989,6 +11011,17 @@
 				)
 			)
 		)
+		(model "${KIPRJMOD}/hellen-one/modules/mega-mcu100/0.3/mega-mcu100-vrml.wrl"
+			(offset
+				(xyz 0 0 -0.1)
+			)
+			(scale
+				(xyz 0.4 0.4 0.35)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "hellen-one-common:R0603"
 		(layer "F.Cu")
@@ -11799,6 +11832,7 @@
 			(uuid "02043c16-5471-4284-a47d-c3f73efa129b")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11807,6 +11841,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/hellen-one/kicad/models/SOIC08 narrow.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
 			)
 		)
 	)
@@ -13320,6 +13365,30 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f9e695e1-86b3-4e2d-befa-b425f8dd10fd")
+	)
+	(gr_text "1"
+		(at 72 46 0)
+		(layer "F.SilkS")
+		(uuid "b0a1d0c2-c300-43cd-ac32-562346ae7497")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "20"
+		(at 147 45.5 0)
+		(layer "F.SilkS")
+		(uuid "d1bb0d16-d3d7-40d3-9760-3efdb618d22a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(gr_text "ÖZER"
 		(at 148.5 78.5 0)
